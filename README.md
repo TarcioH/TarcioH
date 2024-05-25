@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarcioh&label=Profile%20views&color=0e75b6&style=flat" alt="tarcioh" /> </p>
 
-- 🔭 I’m currently working on **RPGP**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Mongo DB**
+- 🌱 I’m currently learning **Java 17+**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **tarcio.dev@gmail.com**
 
